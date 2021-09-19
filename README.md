@@ -1,1 +1,2 @@
 # HackMit21-Goat
+Our project is an IOS application called ecoFit. Its goal is to promote physical activity while emphasizing sustainability. It allows user from a wide-range of ages to participate in the efforts of living a more sustainable lifestyle, by opting to bike, walk, take the bus, or use a scooter. Our App, ecoFit, provides the user with incentives to stay consistent and keep the user using our app. You can keep track of your fitness goals directly on the app, as well as being able to connect with users from around the world.
